@@ -1,0 +1,13 @@
+logo
+pastlogo
+sc_name
+description
+address
+telephone
+fax
+email
+website
+tradeli
+owner_name
+tin
+est_date
